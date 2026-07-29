@@ -45,6 +45,4 @@ Gallery:
 
 
 Steps to run this website:
-Download all the images into a folder called Pictures, and the glb model onto a folder called Assets. Download all other files normally and
-open VScode. In VScode download an extension called Live Server and run the model off of the Live Server so that you can view the 3d elements
-on the Home and Gallery pages.
+Download all the images into a folder called Pictures, and the glb model onto a folder called Assets. Download all other files normally and open VScode. In VScode download an extension called Live Server and run the model off of the Live Server so that you can view the 3d elements on the Home and Gallery pages.
